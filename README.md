@@ -1,3 +1,4 @@
+
 # <Prework-Study-Guide>
 
 ## Starting to Learn
@@ -42,7 +43,6 @@ If you followed tutorials, include links to those here as well.
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
----
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
@@ -62,4 +62,4 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
